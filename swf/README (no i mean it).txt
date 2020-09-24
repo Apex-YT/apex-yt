@@ -16,3 +16,7 @@ If you want to find the game developer, search this in your local search engine.
 "GAME NAME HERE" "developer"
                   ^^^^^^^^^
                   in this spot, leave it as is.
+
+Thanks,
+
+The ApexSummit Dev Team
