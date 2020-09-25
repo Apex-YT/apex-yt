@@ -6,5 +6,5 @@ Here are the list of projects i'm working on!
 
 * [This website!](https://apex-yt.github.io)
 
-* [ApexSummit (games website) (coming soon)]()
+* [ApexSummit (games website) (coming soon)](#)
 
