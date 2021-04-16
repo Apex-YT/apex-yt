@@ -750,8 +750,8 @@
     color: transparent;
 }
 .withFrame-haYltI::before {
-    content: "BOREAL";
-    font-family: 'Courier New', Courier, monospace!important;
+    content: "Starlight";
+    font-family: 'Whitney', Whitney, monospace!important;
     position: absolute;
     font-size: 1rem;
     color: rgb(160, 160, 160)!important;
