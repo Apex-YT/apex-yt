@@ -1,7 +1,5 @@
 :root {
   --background-image: url(https://i.pinimg.com/originals/a2/a6/6b/a2a66b1b23b23791e5d73a00b9325d04.gif); /*Changes the background image*/
-  --backgroundDark: rgb(24, 28, 37);
-  --backgroundDarker: rgb(20, 23, 31);
   --primary: #008ae6;
   --primaryGradient1: var(--primary);
   --primaryGradient2: #00e68a;
@@ -11,17 +9,6 @@
   --backgroundCode: rgba(0,0,0,.35);
   --backgroundName: rgba(0,0,0,.2);
   
-  /* Radial Status */
-  --rs-small-spacing: 2px;
-  --rs-large-spacing: 3px;
-  --rs-width: 2px;
-  --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
-  --rs-invisible-color: #747f8d;
 }
 
 
